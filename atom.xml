@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://geniuswang23.github.io</id>
     <title>Gridea</title>
-    <updated>2022-05-15T07:03:49.120Z</updated>
+    <updated>2022-05-15T07:09:24.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://geniuswang23.github.io"/>
     <link rel="self" href="https://geniuswang23.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://geniuswang23.github.io/images/avatar.png</logo>
     <icon>https://geniuswang23.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第一篇]]></title>
+        <id>https://geniuswang23.github.io/post/di-yi-pian/</id>
+        <link href="https://geniuswang23.github.io/post/di-yi-pian/">
+        </link>
+        <updated>2022-05-15T07:08:25.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>jdkjjsld</li>
+<li>dzsdjlkzd</li>
+<li>skzjdkzldj</li>
+</ul>
+<p>纳斯达克将欸哦奥u去皮485srj</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://geniuswang23.github.io/post/hello-gridea/</id>
